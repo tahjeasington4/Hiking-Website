@@ -1,0 +1,6 @@
+.special {
+    border:1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
